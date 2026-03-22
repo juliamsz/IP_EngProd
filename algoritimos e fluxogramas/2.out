@@ -1,0 +1,10 @@
+=== MENU DE EXERCÍCIOS DE ALGORITMOS E FLUXOGRAMAS ===
+1 - Cálculo de Desconto
+2 - Conversor de Moedas (R$ para US$)
+3 - Calculadora de IMC
+0 - Sair
+==================================
+Escolha uma opção (0, 1, 2 ou 3): 
+[EXERCÍCIO 1: CÁLCULO DE DESCONTO]
+O desconto foi de: R$ 45.29
+O valor final a pagar é: R$ 0.00
